@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+#password {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: pink;
+  width: 40vw;
+  margin-left: 25%;
+}
